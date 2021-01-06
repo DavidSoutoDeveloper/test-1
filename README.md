@@ -7,7 +7,7 @@ This is a readme file
 Use this command to install this repository
 
 ```
-git clone  https://github.com/DavidSoutoDeveloper/test-0.git
+git clone  https://github.com/DavidSoutoDeveloper/test-1.git
 ```
 
 
